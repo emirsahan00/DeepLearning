@@ -1,0 +1,1 @@
+Burada weights uzantılı model olması gerekti fakat 100 mb sınırını aştığı için repository içine atılmıyor.
